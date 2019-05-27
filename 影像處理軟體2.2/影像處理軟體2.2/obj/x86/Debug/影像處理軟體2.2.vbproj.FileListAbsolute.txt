@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\bin\Debug\影像處理軟體2.2.exe
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\bin\Debug\影像處理軟體2.2.pdb
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\bin\Debug\影像處理軟體2.2.xml
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\影像處理軟體2.2.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\影像處理軟體2.2.exe
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\影像處理軟體2.2.xml
+C:\Users\user\Desktop\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\影像處理軟體2.2.pdb
+C:\Users\VIP\Desktop\陳增澤的影像處理軟體\Photoegg\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\影像處理軟體2.2.exe
+C:\Users\VIP\Desktop\陳增澤的影像處理軟體\Photoegg\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\影像處理軟體2.2.xml
+C:\Users\VIP\Desktop\陳增澤的影像處理軟體\Photoegg\影像處理軟體2.2\影像處理軟體2.2\obj\x86\Debug\影像處理軟體2.2.pdb

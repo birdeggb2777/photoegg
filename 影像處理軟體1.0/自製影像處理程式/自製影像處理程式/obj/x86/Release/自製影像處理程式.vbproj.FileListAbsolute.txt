@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\bin\Release\自製影像處理程式.exe
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\bin\Release\自製影像處理程式.pdb
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\bin\Release\自製影像處理程式.xml
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\自製影像處理程式.exe
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\自製影像處理程式.xml
+C:\Users\user\Desktop\自製影像處理程式\自製影像處理程式\obj\x86\Release\自製影像處理程式.pdb

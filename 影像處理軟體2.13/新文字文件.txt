@@ -1,0 +1,159 @@
+On Error Resume Next
+        PictureBox2.Image = PictureBox1.Image
+        ´_­ìToolStripMenuItem.Visible = True
+        ­«½ÆToolStripMenuItem.Visible = False
+        Dim png As New Bitmap(PictureBox1.Image)
+        Dim png2 As New Bitmap(PictureBox2.Image)
+        PictureBox1.Image = png
+        Dim r As Integer
+        r = PictureBox1.Width - 5
+        Dim t As Integer
+        t = PictureBox1.Height - 5
+        Dim co, co2, co3, co4, co5 As Color
+        Dim rr, rr2, rr3, rr4, rr5 As Integer
+        Dim gg, gg2, gg3, gg4, gg5 As Integer
+        Dim bb, bb2, bb3, bb4, bb5 As Integer
+        Dim a As Integer = 0
+        Dim c As Integer
+        Dim c1 As Integer
+        Dim c2 As Integer
+        Dim c3 As Integer
+        Dim cr As Integer
+        ProgressBar1.Minimum = 0
+        ProgressBar1.Maximum = t
+        Dim b As Integer = 0
+        For c3 = 1 To t
+            For c4 = 1 To r
+                c1 = Int(Rnd() * (r - 2) + 3)
+                c2 = Int(Rnd() * (t - 2) + 3)
+                cr = Int(Rnd() * (200) + -100)
+                c = Int(Rnd() * 2)
+                co = png2.GetPixel(c1, c2)
+                co2 = png2.GetPixel(c1 + 1, c2 + 1)
+                co3 = png2.GetPixel(c1 + 2, c2 + 2)
+                co4 = png2.GetPixel(c1 - 1, c2 - 1)
+                co5 = png2.GetPixel(c1 - 2, c2 - 2)
+                rr = co.R + cr
+                gg = co.G + cr
+                bb = co.B + cr
+                rr2 = co2.R + cr
+                gg2 = co2.G + cr
+                bb2 = co2.B + cr
+                rr3 = co3.R + cr
+                gg3 = co3.G + cr
+                bb3 = co3.B + cr
+                rr4 = co4.R + cr
+                gg4 = co4.G + cr
+                bb4 = co4.B + cr
+                rr5 = co5.R + cr
+                gg5 = co5.G + cr
+                bb5 = co5.B + cr
+                If rr > 255 Then
+                    rr = 255
+                End If
+                If gg > 255 Then
+                    gg = 255
+                End If
+                If bb > 255 Then
+                    bb = 255
+                End If
+                If rr < 0 Then
+                    rr = 0
+                End If
+                If gg < 0 Then
+                    gg = 0
+                End If
+                If bb < 0 Then
+                    bb = 0
+                End If
+
+                If rr2 > 255 Then
+                    rr2 = 255
+                End If
+                If gg2 > 255 Then
+                    gg2 = 255
+                End If
+                If bb2 > 255 Then
+                    bb2 = 255
+                End If
+                If rr2 < 0 Then
+                    rr2 = 0
+                End If
+                If gg2 < 0 Then
+                    gg2 = 0
+                End If
+                If bb2 < 0 Then
+                    bb2 = 0
+                End If
+
+
+                If rr3 > 255 Then
+                    rr3 = 255
+                End If
+                If gg3 > 255 Then
+                    gg3 = 255
+                End If
+                If bb3 > 255 Then
+                    bb3 = 255
+                End If
+                If rr3 < 0 Then
+                    rr3 = 0
+                End If
+                If gg3 < 0 Then
+                    gg3 = 0
+                End If
+                If bb3 < 0 Then
+                    bb3 = 0
+                End If
+
+
+
+                If rr4 > 255 Then
+                    rr4 = 255
+                End If
+                If gg4 > 255 Then
+                    gg4 = 255
+                End If
+                If bb4 > 255 Then
+                    bb4 = 255
+                End If
+                If rr4 < 0 Then
+                    rr4 = 0
+                End If
+                If gg4 < 0 Then
+                    gg4 = 0
+                End If
+                If bb4 < 0 Then
+                    bb4 = 0
+                End If
+
+
+                If rr5 > 255 Then
+                    rr5 = 255
+                End If
+                If gg5 > 255 Then
+                    gg5 = 255
+                End If
+                If bb5 > 255 Then
+                    bb5 = 255
+                End If
+                If rr5 < 0 Then
+                    rr5 = 0
+                End If
+                If gg5 < 0 Then
+                    gg5 = 0
+                End If
+                If bb5 < 0 Then
+                    bb5 = 0
+                End If
+                If c = 0 Then
+                    png.SetPixel(c1, c2, Color.FromArgb(rr, gg, bb))
+                    png.SetPixel(c1 + 1, c2 + 1, Color.FromArgb(rr2, gg2, bb2))
+                    png.SetPixel(c1 + 2, c2 + 2, Color.FromArgb(rr3, gg3, bb3))
+                    png.SetPixel(c1 - 1, c2 - 1, Color.FromArgb(rr4, gg4, bb4))
+                    png.SetPixel(c1 - 2, c2 - 2, Color.FromArgb(rr5, gg5, bb5))
+                End If
+            Next
+            b += 1
+            ProgressBar1.Value = b
+        Next

@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\bin\Debug\影像處理軟體2.6.exe
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\bin\Debug\影像處理軟體2.6.pdb
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\bin\Debug\影像處理軟體2.6.xml
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\obj\x86\Debug\影像處理軟體2.6.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\obj\x86\Debug\影像處理軟體2.6.exe
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\obj\x86\Debug\影像處理軟體2.6.xml
+C:\Users\user\Desktop\影像處理軟體2.6\影像處理軟體2.6\obj\x86\Debug\影像處理軟體2.6.pdb

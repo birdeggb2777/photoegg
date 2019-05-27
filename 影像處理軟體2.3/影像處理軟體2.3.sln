@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "影像處理軟體2.3", "影像處理軟體2.3\影像處理軟體2.3.vbproj", "{B81F53EB-61EA-4E0B-84BC-F7B50B03C28E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B81F53EB-61EA-4E0B-84BC-F7B50B03C28E}.Debug|x86.ActiveCfg = Debug|x86
+		{B81F53EB-61EA-4E0B-84BC-F7B50B03C28E}.Debug|x86.Build.0 = Debug|x86
+		{B81F53EB-61EA-4E0B-84BC-F7B50B03C28E}.Release|x86.ActiveCfg = Release|x86
+		{B81F53EB-61EA-4E0B-84BC-F7B50B03C28E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

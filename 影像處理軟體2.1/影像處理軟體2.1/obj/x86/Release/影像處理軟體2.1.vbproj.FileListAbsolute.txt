@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\bin\Release\影像處理軟體2.1.exe
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\bin\Release\影像處理軟體2.1.pdb
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\bin\Release\影像處理軟體2.1.xml
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\影像處理軟體2.1.exe
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\影像處理軟體2.1.xml
+C:\Users\user\Desktop\影像處理軟體2.1\影像處理軟體2.1\obj\x86\Release\影像處理軟體2.1.pdb

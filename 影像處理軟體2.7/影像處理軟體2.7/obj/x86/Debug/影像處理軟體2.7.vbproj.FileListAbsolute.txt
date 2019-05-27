@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\bin\Debug\影像處理軟體2.7.exe
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\bin\Debug\影像處理軟體2.7.pdb
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\bin\Debug\影像處理軟體2.7.xml
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\obj\x86\Debug\影像處理軟體2.7.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\obj\x86\Debug\影像處理軟體2.7.exe
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\obj\x86\Debug\影像處理軟體2.7.xml
+C:\Users\user\Desktop\影像處理軟體2.7\影像處理軟體2.7\obj\x86\Debug\影像處理軟體2.7.pdb
